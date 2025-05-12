@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/gayatrik-sd/gayatrik-sd/blob/main/assets/life-balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m currently a AI & ML student at Great Learning.
   - 🌱 I’m currently focusing on Open-Source and contributions.
