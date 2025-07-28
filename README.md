@@ -3,7 +3,7 @@
   
   - 🔭 I’m currently a AI & ML student at Great Learning.
   - 🌱 I’m currently focusing on Open-Source and contributions.
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatri-k-6022b6377/">LinkedIn</a>
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatrik-dev/">LinkedIn</a>
   - 😄 Pronouns: She / Her
   
   #### 👨🏻‍💻 Languages and Tools <br />
