@@ -3,9 +3,8 @@
   
   - 🔭 I’m currently a AI & ML student at Great Learning.
   - 🌱 I’m currently focusing on Open-Source and contributions.
-  - 📫 How to reach me: <a href="mailto:gayatrik.sd@gmail.com">Gmail</a>
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatri-k-6022b6377/">LinkedIn</a>
   - 😄 Pronouns: She / Her
-  - ⚡ Fun fact: People call me "GeekU"
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
