@@ -1,9 +1,11 @@
 ### Hello World! 👋
 <img src="https://github.com/gayatrik-sd/gayatrik-sd/blob/main/assets/life-balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently a AI & ML student at Great Learning.
-  - 🌱 I’m currently focusing on Open-Source and contributions.
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatrik-dev/">LinkedIn</a>
+  - 🔭 I’m currently working as a independent-contributor on backend-heavy projects focused on APIs and automation.
+  - 🧩 Enjoy building side projects and tools to explore new tech, learn and sometimes just curiosity.
+  - 🧠 Always learning – diving deeper into system design, devOps and distributed systems. 
+  - 🌱 Very much interested and focused on Open-Source projects and contributions.
+  - 📫 How to reach me: <a href="mailto:gayatrik.sd@gmail.com">gmail</a>
   - 😄 Pronouns: She / Her
   
   #### 👨🏻‍💻 Languages and Tools <br />
